@@ -1,4 +1,6 @@
 Deliverables Task:
+Solution -> https://github.com/nishitamaheshwari-nagarro/Docker-K8Assignment-Tasks/blob/main/Deliverables%20Task.docx
+
 1. Share GitHub public repository URL for your code base.( Just one Controller is enough with Get
 Endpoint – No need for Repository & Service layer OR You can use your spring boot assignment
 code as well. Agenda is to make an Image of your application.)
