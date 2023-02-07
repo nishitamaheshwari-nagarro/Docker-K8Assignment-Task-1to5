@@ -1,4 +1,4 @@
-# Docker & K8 Assignment tasks 1to5
+# Docker & K8 Assignment tasks
 
 1.Create a REST API Endpoint using spring boot framework.
 
@@ -66,5 +66,14 @@ https://hub.docker.com/u/nishitamaheshwari
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/91266381/217153249-7dce3076-49b8-41d3-8e6b-29bda9c233d2.png)
 
+
+6. Setup a Kubernetes cluster: (You have two options: Choose any one of these)
+• For Local use MiniKube
+• You can set up a Kubernetes cluster on google cloud as well. (Using GKE – Google
+Kubernetes Engine)
+7. Create YAMLs Files
+• Create a Deployment YAML with respect to your Docker Image and Replica Factor
+should be 2
+• Create a Service YAML with respect to your Deployment.
 
 
